@@ -52,13 +52,13 @@ nft의 구성 요소는 블록체인상에서 한 곳에 모여 있지 않다. �
 
 nft 마켓플레이스
 ======================================
-* [오픈씨](https://opensea.io/).             
-* 라리블            
-* 니프티 게이트웨이            
-* 슈퍼레어            
-* 왁스            
-* 파운데이션            
-* NBA 톱숏        
-* 베브            
-* 노운오리진       
-* 미스마켓         
+* [오픈시](https://opensea.io/)             
+* [라리블](https://rarible.com/)     
+* [니프티 게이트웨이](https://niftygateway.com/)            
+* [슈퍼레어](https://superrare.com/)            
+* [왁스](https://nfthive.io/?gclid=Cj0KCQiA0p2QBhDvARIsAACSOOPThwMbXPtnUhuSG2EAIqqlBgfxUSA6EfKK06v0quHM68HfnftM0iEaAm4hEALw_wcB)            
+* [파운데이션](https://foundation.app/)            
+* [NBA 톱숏](https://nbatopshot.com/)        
+* [베브](https://www.veve.me/)            
+* [노운오리진](https://knownorigin.io/)       
+* [미스마켓](https://myth.market/)         
